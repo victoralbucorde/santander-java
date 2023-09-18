@@ -1,6 +1,6 @@
 # 📚 Santander Java
 
-Esse repositório foi criado com o intuito de documentar todo meu aprendizado e conhecimento com java.
+Esse repositório foi criado com o intuito de documentar todo meu aprendizado e conhecimento com java. Os códigos fontes estarão separados em pacotes com nomes dividos por conteúdos dados nas aulas.
 
 ## 📞 Contatos
 - GitHub: [victoralbucorde](https://github.com/victoralbucorde)
