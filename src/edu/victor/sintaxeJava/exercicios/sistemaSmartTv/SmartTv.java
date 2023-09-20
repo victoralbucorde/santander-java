@@ -14,6 +14,10 @@ public class SmartTv {
         }
     }
 
+    public void mudarCanal(int qualCanal){
+        canal = qualCanal;
+    }
+
     public void aumentarCanal() {
         canal++;
     }
