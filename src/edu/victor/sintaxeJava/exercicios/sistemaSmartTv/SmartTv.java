@@ -6,12 +6,7 @@ public class SmartTv {
     int volume = 0;
 
     public void ligarDesligar() {
-        if (ligadoDesligado) {
-            ligadoDesligado = false;
-        }
-        else {
-            ligadoDesligado = true;
-        }
+        ligadoDesligado = !ligadoDesligado;
     }
 
     public void mudarCanal(int qualCanal){
