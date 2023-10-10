@@ -9,3 +9,5 @@ Esse repositório foi criado com o intuito de documentar todo meu aprendizado e 
 ## 👨‍💻 Tecnologias aprendidas
 - Lógica de programação
 - Java
+- Orientação a objetos
+- Collections Framework
