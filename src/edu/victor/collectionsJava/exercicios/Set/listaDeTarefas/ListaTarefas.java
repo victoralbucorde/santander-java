@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.listaDeTarefas;
+package edu.victor.collectionsJava.exercicios.Set.listaDeTarefas;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.listaDeAlunos;
+package edu.victor.collectionsJava.exercicios.Set.listaDeAlunos;
 
 import java.util.Comparator;
 import java.util.Objects;

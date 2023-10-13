@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.listaDeTarefas;
+package edu.victor.collectionsJava.exercicios.Set.listaDeTarefas;
 
 public class Tarefa {
     private String descricao;

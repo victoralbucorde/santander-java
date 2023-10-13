@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.carrinhoDeCompras;
+package edu.victor.collectionsJava.exercicios.List.carrinhoDeCompras;
 
 import java.util.ArrayList;
 import java.util.List;

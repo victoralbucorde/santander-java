@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.conjuntoDePalvrasUnicas;
+package edu.victor.collectionsJava.exercicios.Set.conjuntoDePalvrasUnicas;
 
 import java.util.HashSet;
 import java.util.Set;

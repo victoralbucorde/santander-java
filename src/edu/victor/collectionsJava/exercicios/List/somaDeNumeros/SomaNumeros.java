@@ -1,6 +1,5 @@
-package edu.victor.collectionsJava.exercicios.somaDeNumeros;
+package edu.victor.collectionsJava.exercicios.List.somaDeNumeros;
 
-import javax.naming.InterruptedNamingException;
 import java.util.ArrayList;
 import java.util.List;
 

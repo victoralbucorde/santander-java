@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.ordenacaoDeNumeros;
+package edu.victor.collectionsJava.exercicios.List.ordenacaoDeNumeros;
 
 import java.util.ArrayList;
 import java.util.Collections;

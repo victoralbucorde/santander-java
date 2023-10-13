@@ -1,4 +1,4 @@
-package edu.victor.collectionsJava.exercicios.carrinhoDeCompras;
+package edu.victor.collectionsJava.exercicios.List.carrinhoDeCompras;
 public class Item{
     private String nome;
     private double preco;
