@@ -12,7 +12,7 @@ public class Livro {
         this.autor = autor;
         this.preco = preco;
     }
-
+    
     public String getTitulo() {
         return titulo;
     }
